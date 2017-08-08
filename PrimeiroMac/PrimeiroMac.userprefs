@@ -1,0 +1,21 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupConfiguration="{9B068121-CA24-4BC8-A335-72F91C4246BE}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrimeiroMac/MainWindowController.cs">
+    <Files>
+      <File FileName="PrimeiroMac/MainWindowController.cs" Line="47" Column="3" />
+      <File FileName="PrimeiroMac/NovaJanelaWIndowController.cs" Line="22" Column="22" />
+      <File FileName="PrimeiroMac/NovaJanelaWIndowControllerController.cs" Line="25" Column="25" />
+      <File FileName="PrimeiroMac/MainWindow.cs" Line="1" Column="1" />
+      <File FileName="PrimeiroMac/AppDelegate.cs" Line="10" Column="1" />
+      <File FileName="PrimeiroMac/AgendaTableDelegate.cs" Line="1" Column="1" />
+      <File FileName="PrimeiroMac/AgendaTableDataSource.cs" Line="7" Column="1" />
+      <File FileName="PrimeiroMac/Sobre.txt" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PrimeiroMac PreferredExecutionTarget="Test1" />
+</Properties>
